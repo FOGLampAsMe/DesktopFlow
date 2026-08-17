@@ -1,0 +1,29 @@
+# CMake and IDE output
+/build*/
+/cmake-build-*/
+/.vs/
+/.vscode/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+.ninja_*
+
+# Compiler output
+*.a
+*.dll
+*.exe
+*.lib
+*.obj
+*.o
+*.pdb
+
+# Recorder and release output
+*.mp4
+*.zip
+
+# Editor and OS files
+*.user
+*.suo
+.DS_Store
+Thumbs.db
